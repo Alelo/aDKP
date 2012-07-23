@@ -1,0 +1,40 @@
+﻿.DRUID {
+	color: #FF7D0A !important;
+	font-weight: 12px !important;
+}
+.HUNTER {
+	color: #ABD473 !important;
+	font-weight: 12px !important;
+}
+.WARLOCK {
+	color: #9482C9 !important;
+	font-weight: 12px !important;
+}
+.WARRIOR {
+	color: #C79C6E !important;
+	font-weight: 12px !important;
+}
+.MAGE {
+	color: #69CCF0 !important;
+	font-weight: 12px !important;
+}
+.PALADIN {
+	color: #F58CBA !important;
+	font-weight: 12px !important;
+}
+.PRIEST {
+	color: #FFFFFF !important;
+	font-weight: 12px !important;
+}
+.SHAMAN {
+	color: #2459FF !important;
+	font-weight: 12px !important;
+}
+.ROGUE {
+	color: #FFF569 !important;
+	font-weight: 12px !important;
+}
+.DEATHKNIGHT {
+	color: #C41F3B !important;
+	font-weight: 12px !important;
+}

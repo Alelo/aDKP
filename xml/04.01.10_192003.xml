@@ -1,0 +1,1844 @@
+<RaidInfo>
+	<key>04/01/10 19:20:03</key>
+	<start>04/01/10 19:20:03</start>
+	<end>04/01/10 22:49:00</end>
+	<zone>Icecrown Citadel</zone>
+	<instance>
+		<name>Icecrown Citadel</name>
+
+		<type>raid</type>
+		<difficulty>2</difficulty>
+	</instance>
+	<PlayerInfos>
+		<key1>
+			<name>Dragea</name>
+			<race>BloodElf</race>
+
+			<guild>Tabula rasa</guild>
+			<sex>3</sex>
+			<class>PRIEST</class>
+			<level>80</level>
+		</key1>
+		<key2>
+			<name>Mondrose</name>
+
+			<race>Scourge</race>
+			<guild>Tabula rasa</guild>
+			<sex>3</sex>
+			<class>WARLOCK</class>
+			<level>80</level>
+		</key2>
+
+		<key3>
+			<name>Zelo</name>
+			<race>Orc</race>
+			<guild>Tabula rasa</guild>
+			<sex>2</sex>
+			<class>WARRIOR</class>
+
+			<level>80</level>
+		</key3>
+		<key4>
+			<name>Anubra</name>
+			<race>Troll</race>
+			<guild>Tabula rasa</guild>
+			<sex>3</sex>
+
+			<class>HUNTER</class>
+			<level>80</level>
+		</key4>
+		<key5>
+			<name>Biglight</name>
+			<race>Tauren</race>
+			<guild>Tabula rasa</guild>
+
+			<sex>2</sex>
+			<class>SHAMAN</class>
+			<level>80</level>
+		</key5>
+		<key6>
+			<name>Sharodal</name>
+			<race>Tauren</race>
+
+			<guild>Tabula rasa</guild>
+			<sex>3</sex>
+			<class>WARRIOR</class>
+			<level>80</level>
+		</key6>
+		<key7>
+			<name>Lysophie</name>
+
+			<race>BloodElf</race>
+			<guild>Tabula rasa</guild>
+			<sex>3</sex>
+			<class>PALADIN</class>
+			<level>80</level>
+		</key7>
+
+		<key8>
+			<name>Layes</name>
+			<race>BloodElf</race>
+			<guild>Tabula rasa</guild>
+			<sex>2</sex>
+			<class>PALADIN</class>
+
+			<level>80</level>
+		</key8>
+		<key9>
+			<name>Irimit</name>
+			<race>BloodElf</race>
+			<guild>Tabula rasa</guild>
+			<sex>2</sex>
+
+			<class>MAGE</class>
+			<level>80</level>
+		</key9>
+		<key10>
+			<name>Skyman</name>
+			<race>Tauren</race>
+			<guild>Tabula rasa</guild>
+
+			<sex>2</sex>
+			<class>WARRIOR</class>
+			<level>80</level>
+		</key10>
+		<key11>
+			<name>Humaneater</name>
+			<race>Troll</race>
+
+			<guild>Tabula rasa</guild>
+			<sex>2</sex>
+			<class>HUNTER</class>
+			<level>80</level>
+		</key11>
+		<key12>
+			<name>Ruala</name>
+
+			<race>BloodElf</race>
+			<guild>Tabula rasa</guild>
+			<sex>3</sex>
+			<class>PALADIN</class>
+			<level>80</level>
+		</key12>
+
+		<key13>
+			<name>Lumber</name>
+			<race>Scourge</race>
+			<guild>Tabula rasa</guild>
+			<sex>2</sex>
+			<class>ROGUE</class>
+
+			<level>80</level>
+		</key13>
+		<key14>
+			<name>Ralosh</name>
+			<race>Orc</race>
+			<guild>Tabula rasa</guild>
+			<sex>2</sex>
+
+			<class>HUNTER</class>
+			<level>80</level>
+		</key14>
+		<key15>
+			<name>Moatu</name>
+			<race>Orc</race>
+			<guild>Tabula rasa</guild>
+
+			<sex>3</sex>
+			<class>SHAMAN</class>
+			<level>80</level>
+		</key15>
+		<key16>
+			<name>Schaman</name>
+			<race>Tauren</race>
+
+			<guild>Tabula rasa</guild>
+			<sex>2</sex>
+			<class>SHAMAN</class>
+			<level>80</level>
+		</key16>
+		<key17>
+			<name>Sibaka</name>
+
+			<race>Tauren</race>
+			<guild>Tabula rasa</guild>
+			<sex>2</sex>
+			<class>DRUID</class>
+			<level>80</level>
+		</key17>
+
+		<key18>
+			<name>Gremrag</name>
+			<race>Orc</race>
+			<guild>Tabula rasa</guild>
+			<sex>2</sex>
+			<class>ROGUE</class>
+
+			<level>80</level>
+		</key18>
+		<key19>
+			<name>Kórn</name>
+			<race>Scourge</race>
+			<guild>Tabula rasa</guild>
+			<sex>2</sex>
+
+			<class>PRIEST</class>
+			<level>80</level>
+		</key19>
+		<key20>
+			<name>Tamína</name>
+			<race>BloodElf</race>
+			<guild>Tabula rasa</guild>
+
+			<sex>3</sex>
+			<class>WARLOCK</class>
+			<level>80</level>
+		</key20>
+		<key21>
+			<name>Dàntê</name>
+			<race>Scourge</race>
+
+			<guild>Tabula rasa</guild>
+			<sex>2</sex>
+			<class>MAGE</class>
+			<level>80</level>
+		</key21>
+		<key22>
+			<name>Lichblade</name>
+
+			<race>Tauren</race>
+			<guild>Tabula rasa</guild>
+			<sex>2</sex>
+			<class>DEATHKNIGHT</class>
+			<level>80</level>
+		</key22>
+
+		<key23>
+			<name>Skrom</name>
+			<race>Tauren</race>
+			<guild>Tabula rasa</guild>
+			<sex>2</sex>
+			<class>WARRIOR</class>
+
+			<level>80</level>
+		</key23>
+		<key24>
+			<name>Goldhändler</name>
+			<race>Tauren</race>
+			<guild>Tabula rasa</guild>
+			<sex>2</sex>
+
+			<class>HUNTER</class>
+			<level>80</level>
+		</key24>
+	</PlayerInfos>
+	<BossKills>
+		<key1>
+			<name>Lord Marrowgar</name>
+
+			<time>04/01/10 19:59:38</time>
+			<instance>
+				<name>Icecrown Citadel</name>
+				<type>raid</type>
+				<difficulty>2</difficulty>
+			</instance>
+			<attendees>
+
+				<key1>
+					<name>Skrom</name>
+				</key1>
+				<key2>
+					<name>Schaman</name>
+				</key2>
+				<key3>
+					<name>Sharodal</name>
+
+				</key3>
+				<key4>
+					<name>Lysophie</name>
+				</key4>
+				<key5>
+					<name>Zelo</name>
+				</key5>
+				<key6>
+
+					<name>Gremrag</name>
+				</key6>
+				<key7>
+					<name>Sibaka</name>
+				</key7>
+				<key8>
+					<name>Goldhändler</name>
+
+				</key8>
+				<key9>
+					<name>Lumber</name>
+				</key9>
+				<key10>
+					<name>Lichblade</name>
+				</key10>
+				<key11>
+
+					<name>Mondrose</name>
+				</key11>
+				<key12>
+					<name>Anubra</name>
+				</key12>
+				<key13>
+					<name>Humaneater</name>
+
+				</key13>
+				<key14>
+					<name>Ralosh</name>
+				</key14>
+				<key15>
+					<name>Dàntê</name>
+				</key15>
+				<key16>
+
+					<name>Biglight</name>
+				</key16>
+				<key17>
+					<name>Ruala</name>
+				</key17>
+				<key18>
+					<name>Moatu</name>
+
+				</key18>
+				<key19>
+					<name>Kórn</name>
+				</key19>
+				<key20>
+					<name>Irimit</name>
+				</key20>
+				<key21>
+
+					<name>Layes</name>
+				</key21>
+				<key22>
+					<name>Tamína</name>
+				</key22>
+				<key23>
+					<name>Dragea</name>
+
+				</key23>
+			</attendees>
+		</key1>
+		<key2>
+			<name>Lady Deathwhisper</name>
+			<time>04/01/10 20:16:11</time>
+			<instance>
+				<name>Icecrown Citadel</name>
+
+				<type>raid</type>
+				<difficulty>2</difficulty>
+			</instance>
+			<attendees>
+				<key1>
+					<name>Skrom</name>
+				</key1>
+
+				<key2>
+					<name>Schaman</name>
+				</key2>
+				<key3>
+					<name>Sharodal</name>
+				</key3>
+				<key4>
+					<name>Lysophie</name>
+
+				</key4>
+				<key5>
+					<name>Zelo</name>
+				</key5>
+				<key6>
+					<name>Sibaka</name>
+				</key6>
+				<key7>
+
+					<name>Goldhändler</name>
+				</key7>
+				<key8>
+					<name>Lumber</name>
+				</key8>
+				<key9>
+					<name>Lichblade</name>
+
+				</key9>
+				<key10>
+					<name>Mondrose</name>
+				</key10>
+				<key11>
+					<name>Anubra</name>
+				</key11>
+				<key12>
+
+					<name>Humaneater</name>
+				</key12>
+				<key13>
+					<name>Ralosh</name>
+				</key13>
+				<key14>
+					<name>Dàntê</name>
+
+				</key14>
+				<key15>
+					<name>Biglight</name>
+				</key15>
+				<key16>
+					<name>Ruala</name>
+				</key16>
+				<key17>
+
+					<name>Moatu</name>
+				</key17>
+				<key18>
+					<name>Kórn</name>
+				</key18>
+				<key19>
+					<name>Irimit</name>
+
+				</key19>
+				<key20>
+					<name>Layes</name>
+				</key20>
+				<key21>
+					<name>Tamína</name>
+				</key21>
+				<key22>
+
+					<name>Dragea</name>
+				</key22>
+			</attendees>
+		</key2>
+		<key3>
+			<name>Deathbringer Saurfang</name>
+			<time>04/01/10 20:37:22</time>
+
+			<instance>
+				<name>Icecrown Citadel</name>
+				<type>raid</type>
+				<difficulty>2</difficulty>
+			</instance>
+			<attendees>
+				<key1>
+
+					<name>Skrom</name>
+				</key1>
+				<key2>
+					<name>Schaman</name>
+				</key2>
+				<key3>
+					<name>Sharodal</name>
+
+				</key3>
+				<key4>
+					<name>Lysophie</name>
+				</key4>
+				<key5>
+					<name>Zelo</name>
+				</key5>
+				<key6>
+
+					<name>Sibaka</name>
+				</key6>
+				<key7>
+					<name>Goldhändler</name>
+				</key7>
+				<key8>
+					<name>Lumber</name>
+
+				</key8>
+				<key9>
+					<name>Lichblade</name>
+				</key9>
+				<key10>
+					<name>Mondrose</name>
+				</key10>
+				<key11>
+
+					<name>Anubra</name>
+				</key11>
+				<key12>
+					<name>Humaneater</name>
+				</key12>
+				<key13>
+					<name>Ralosh</name>
+
+				</key13>
+				<key14>
+					<name>Dàntê</name>
+				</key14>
+				<key15>
+					<name>Biglight</name>
+				</key15>
+				<key16>
+
+					<name>Ruala</name>
+				</key16>
+				<key17>
+					<name>Moatu</name>
+				</key17>
+				<key18>
+					<name>Kórn</name>
+
+				</key18>
+				<key19>
+					<name>Irimit</name>
+				</key19>
+				<key20>
+					<name>Layes</name>
+				</key20>
+				<key21>
+
+					<name>Tamína</name>
+				</key21>
+				<key22>
+					<name>Skyman</name>
+				</key22>
+				<key23>
+					<name>Dragea</name>
+
+				</key23>
+			</attendees>
+		</key3>
+		<key4>
+			<name>Rotface</name>
+			<time>04/01/10 20:57:42</time>
+			<instance>
+				<name>Icecrown Citadel</name>
+
+				<type>raid</type>
+				<difficulty>2</difficulty>
+			</instance>
+			<attendees>
+				<key1>
+					<name>Skrom</name>
+				</key1>
+
+				<key2>
+					<name>Schaman</name>
+				</key2>
+				<key3>
+					<name>Sharodal</name>
+				</key3>
+				<key4>
+					<name>Lysophie</name>
+
+				</key4>
+				<key5>
+					<name>Zelo</name>
+				</key5>
+				<key6>
+					<name>Sibaka</name>
+				</key6>
+				<key7>
+
+					<name>Goldhändler</name>
+				</key7>
+				<key8>
+					<name>Lumber</name>
+				</key8>
+				<key9>
+					<name>Lichblade</name>
+
+				</key9>
+				<key10>
+					<name>Mondrose</name>
+				</key10>
+				<key11>
+					<name>Anubra</name>
+				</key11>
+				<key12>
+
+					<name>Humaneater</name>
+				</key12>
+				<key13>
+					<name>Ralosh</name>
+				</key13>
+				<key14>
+					<name>Dàntê</name>
+
+				</key14>
+				<key15>
+					<name>Biglight</name>
+				</key15>
+				<key16>
+					<name>Ruala</name>
+				</key16>
+				<key17>
+
+					<name>Moatu</name>
+				</key17>
+				<key18>
+					<name>Kórn</name>
+				</key18>
+				<key19>
+					<name>Irimit</name>
+
+				</key19>
+				<key20>
+					<name>Layes</name>
+				</key20>
+				<key21>
+					<name>Tamína</name>
+				</key21>
+				<key22>
+
+					<name>Skyman</name>
+				</key22>
+				<key23>
+					<name>Dragea</name>
+				</key23>
+			</attendees>
+		</key4>
+		<key5>
+
+			<name>Festergut</name>
+			<time>04/01/10 21:08:50</time>
+			<instance>
+				<name>Icecrown Citadel</name>
+				<type>raid</type>
+				<difficulty>2</difficulty>
+
+			</instance>
+			<attendees>
+				<key1>
+					<name>Skrom</name>
+				</key1>
+				<key2>
+					<name>Schaman</name>
+				</key2>
+
+				<key3>
+					<name>Sharodal</name>
+				</key3>
+				<key4>
+					<name>Lysophie</name>
+				</key4>
+				<key5>
+					<name>Zelo</name>
+
+				</key5>
+				<key6>
+					<name>Sibaka</name>
+				</key6>
+				<key7>
+					<name>Skyman</name>
+				</key7>
+				<key8>
+
+					<name>Lumber</name>
+				</key8>
+				<key9>
+					<name>Lichblade</name>
+				</key9>
+				<key10>
+					<name>Mondrose</name>
+
+				</key10>
+				<key11>
+					<name>Anubra</name>
+				</key11>
+				<key12>
+					<name>Humaneater</name>
+				</key12>
+				<key13>
+
+					<name>Ralosh</name>
+				</key13>
+				<key14>
+					<name>Dàntê</name>
+				</key14>
+				<key15>
+					<name>Biglight</name>
+
+				</key15>
+				<key16>
+					<name>Ruala</name>
+				</key16>
+				<key17>
+					<name>Moatu</name>
+				</key17>
+				<key18>
+
+					<name>Kórn</name>
+				</key18>
+				<key19>
+					<name>Irimit</name>
+				</key19>
+				<key20>
+					<name>Layes</name>
+
+				</key20>
+				<key21>
+					<name>Tamína</name>
+				</key21>
+				<key22>
+					<name>Goldhändler</name>
+				</key22>
+				<key23>
+
+					<name>Dragea</name>
+				</key23>
+			</attendees>
+		</key5>
+		<key6>
+			<name>Professor Putricide</name>
+			<time>04/01/10 21:23:02</time>
+
+			<instance>
+				<name>Icecrown Citadel</name>
+				<type>raid</type>
+				<difficulty>2</difficulty>
+			</instance>
+			<attendees>
+				<key1>
+
+					<name>Skrom</name>
+				</key1>
+				<key2>
+					<name>Schaman</name>
+				</key2>
+				<key3>
+					<name>Sharodal</name>
+
+				</key3>
+				<key4>
+					<name>Lysophie</name>
+				</key4>
+				<key5>
+					<name>Zelo</name>
+				</key5>
+				<key6>
+
+					<name>Sibaka</name>
+				</key6>
+				<key7>
+					<name>Skyman</name>
+				</key7>
+				<key8>
+					<name>Lumber</name>
+
+				</key8>
+				<key9>
+					<name>Lichblade</name>
+				</key9>
+				<key10>
+					<name>Mondrose</name>
+				</key10>
+				<key11>
+
+					<name>Anubra</name>
+				</key11>
+				<key12>
+					<name>Humaneater</name>
+				</key12>
+				<key13>
+					<name>Ralosh</name>
+
+				</key13>
+				<key14>
+					<name>Dàntê</name>
+				</key14>
+				<key15>
+					<name>Biglight</name>
+				</key15>
+				<key16>
+
+					<name>Ruala</name>
+				</key16>
+				<key17>
+					<name>Moatu</name>
+				</key17>
+				<key18>
+					<name>Kórn</name>
+
+				</key18>
+				<key19>
+					<name>Irimit</name>
+				</key19>
+				<key20>
+					<name>Layes</name>
+				</key20>
+				<key21>
+
+					<name>Tamína</name>
+				</key21>
+				<key22>
+					<name>Goldhändler</name>
+				</key22>
+				<key23>
+					<name>gfDragea</name>
+
+				</key23>
+			</attendees>
+		</key6>
+		<key7>
+			<name>Prince Keleseth</name>
+			<time>04/01/10 22:12:44</time>
+			<instance>
+				<name>Icecrown Citadel</name>
+
+				<type>raid</type>
+				<difficulty>2</difficulty>
+			</instance>
+			<attendees>
+				<key1>
+					<name>Skrom</name>
+				</key1>
+
+				<key2>
+					<name>Schaman</name>
+				</key2>
+				<key3>
+					<name>Sharodal</name>
+				</key3>
+				<key4>
+					<name>Lysophie</name>
+
+				</key4>
+				<key5>
+					<name>Zelo</name>
+				</key5>
+				<key6>
+					<name>Sibaka</name>
+				</key6>
+				<key7>
+
+					<name>Skyman</name>
+				</key7>
+				<key8>
+					<name>Lumber</name>
+				</key8>
+				<key9>
+					<name>Lichblade</name>
+
+				</key9>
+				<key10>
+					<name>Mondrose</name>
+				</key10>
+				<key11>
+					<name>Anubra</name>
+				</key11>
+				<key12>
+
+					<name>Humaneater</name>
+				</key12>
+				<key13>
+					<name>Ralosh</name>
+				</key13>
+				<key14>
+					<name>Dàntê</name>
+
+				</key14>
+				<key15>
+					<name>Biglight</name>
+				</key15>
+				<key16>
+					<name>Ruala</name>
+				</key16>
+				<key17>
+
+					<name>Moatu</name>
+				</key17>
+				<key18>
+					<name>Kórn</name>
+				</key18>
+				<key19>
+					<name>Irimit</name>
+
+				</key19>
+				<key20>
+					<name>Layes</name>
+				</key20>
+				<key21>
+					<name>Tamína</name>
+				</key21>
+				<key22>
+
+					<name>Goldhändler</name>
+				</key22>
+				<key23>
+					<name>Dragea</name>
+				</key23>
+			</attendees>
+		</key7>
+		<key8>
+
+			<name>Prince Taldaram</name>
+			<time>04/01/10 22:12:44</time>
+			<instance>
+				<name>Icecrown Citadel</name>
+				<type>raid</type>
+				<difficulty>2</difficulty>
+
+			</instance>
+			<attendees>
+				<key1>
+					<name>Skrom</name>
+				</key1>
+				<key2>
+					<name>Schaman</name>
+				</key2>
+
+				<key3>
+					<name>Sharodal</name>
+				</key3>
+				<key4>
+					<name>Lysophie</name>
+				</key4>
+				<key5>
+					<name>Zelo</name>
+
+				</key5>
+				<key6>
+					<name>Sibaka</name>
+				</key6>
+				<key7>
+					<name>Skyman</name>
+				</key7>
+				<key8>
+
+					<name>Lumber</name>
+				</key8>
+				<key9>
+					<name>Lichblade</name>
+				</key9>
+				<key10>
+					<name>Mondrose</name>
+
+				</key10>
+				<key11>
+					<name>Anubra</name>
+				</key11>
+				<key12>
+					<name>Humaneater</name>
+				</key12>
+				<key13>
+
+					<name>Ralosh</name>
+				</key13>
+				<key14>
+					<name>Dàntê</name>
+				</key14>
+				<key15>
+					<name>Biglight</name>
+
+				</key15>
+				<key16>
+					<name>Ruala</name>
+				</key16>
+				<key17>
+					<name>Moatu</name>
+				</key17>
+				<key18>
+
+					<name>Kórn</name>
+				</key18>
+				<key19>
+					<name>Irimit</name>
+				</key19>
+				<key20>
+					<name>Layes</name>
+
+				</key20>
+				<key21>
+					<name>Tamína</name>
+				</key21>
+				<key22>
+					<name>Goldhändler</name>
+				</key22>
+				<key23>
+
+					<name>Dragea</name>
+				</key23>
+			</attendees>
+		</key8>
+	</BossKills>
+	<note> - Zone: Icecrown Citadel</note>
+	<Join>
+
+		<key1>
+			<player>Ralosh</player>
+			<race>Orc</race>
+			<class>HUNTER</class>
+			<sex>2</sex>
+			<level>80</level>
+
+			<time>04/01/10 19:20:03</time>
+		</key1>
+		<key2>
+			<player>Dragea</player>
+			<race>BloodElf</race>
+			<class>PRIEST</class>
+			<sex>3</sex>
+
+			<level>80</level>
+			<time>04/01/10 19:20:03</time>
+		</key2>
+		<key3>
+			<player>Anubra</player>
+			<race>Troll</race>
+			<class>HUNTER</class>
+
+			<sex>3</sex>
+			<level>80</level>
+			<time>04/01/10 19:20:07</time>
+		</key3>
+		<key4>
+			<player>Mondrose</player>
+			<race>Scourge</race>
+
+			<class>WARLOCK</class>
+			<sex>3</sex>
+			<level>80</level>
+			<time>04/01/10 19:20:38</time>
+		</key4>
+		<key5>
+			<player>Zelo</player>
+
+			<race>Orc</race>
+			<class>WARRIOR</class>
+			<sex>2</sex>
+			<level>80</level>
+			<time>04/01/10 19:20:40</time>
+		</key5>
+
+		<key6>
+			<player>Irimit</player>
+			<race>BloodElf</race>
+			<class>MAGE</class>
+			<sex>2</sex>
+			<level>80</level>
+
+			<time>04/01/10 19:20:46</time>
+		</key6>
+		<key7>
+			<player>Sharodal</player>
+			<race>Tauren</race>
+			<class>WARRIOR</class>
+			<sex>3</sex>
+
+			<level>80</level>
+			<time>04/01/10 19:20:46</time>
+		</key7>
+		<key8>
+			<player>Layes</player>
+			<race>BloodElf</race>
+			<class>PALADIN</class>
+
+			<sex>2</sex>
+			<level>80</level>
+			<time>04/01/10 19:20:56</time>
+		</key8>
+		<key9>
+			<player>Lumber</player>
+			<race>Scourge</race>
+
+			<class>ROGUE</class>
+			<sex>2</sex>
+			<level>80</level>
+			<time>04/01/10 19:20:59</time>
+		</key9>
+		<key10>
+			<player>Lichblade</player>
+
+			<race>Tauren</race>
+			<class>DEATHKNIGHT</class>
+			<sex>2</sex>
+			<level>80</level>
+			<time>04/01/10 19:21:03</time>
+		</key10>
+
+		<key11>
+			<player>Lysophie</player>
+			<race>BloodElf</race>
+			<class>PALADIN</class>
+			<sex>3</sex>
+			<level>80</level>
+
+			<time>04/01/10 19:21:04</time>
+		</key11>
+		<key12>
+			<player>Moatu</player>
+			<race>Orc</race>
+			<class>SHAMAN</class>
+			<sex>3</sex>
+
+			<level>80</level>
+			<time>04/01/10 19:21:25</time>
+		</key12>
+		<key13>
+			<player>Humaneater</player>
+			<race>Troll</race>
+			<class>HUNTER</class>
+
+			<sex>2</sex>
+			<level>80</level>
+			<time>04/01/10 19:21:33</time>
+		</key13>
+		<key14>
+			<player>Schaman</player>
+			<race>Tauren</race>
+
+			<class>SHAMAN</class>
+			<sex>2</sex>
+			<level>80</level>
+			<time>04/01/10 19:21:36</time>
+		</key14>
+		<key15>
+			<player>Dàntê</player>
+
+			<race>Scourge</race>
+			<class>MAGE</class>
+			<sex>2</sex>
+			<level>80</level>
+			<time>04/01/10 19:23:02</time>
+		</key15>
+
+		<key16>
+			<player>Kórn</player>
+			<race>Scourge</race>
+			<class>PRIEST</class>
+			<sex>2</sex>
+			<level>80</level>
+
+			<time>04/01/10 19:23:58</time>
+		</key16>
+		<key17>
+			<player>Tamína</player>
+			<race>BloodElf</race>
+			<class>WARLOCK</class>
+			<sex>3</sex>
+
+			<level>80</level>
+			<time>04/01/10 19:24:08</time>
+		</key17>
+		<key18>
+			<player>Moatu</player>
+			<race>Orc</race>
+			<class>SHAMAN</class>
+
+			<sex>3</sex>
+			<level>80</level>
+			<time>04/01/10 19:24:18</time>
+		</key18>
+		<key19>
+			<player>Ruala</player>
+			<race>BloodElf</race>
+
+			<class>PALADIN</class>
+			<sex>3</sex>
+			<level>80</level>
+			<time>04/01/10 19:25:58</time>
+		</key19>
+		<key20>
+			<player>Gremrag</player>
+
+			<race>Orc</race>
+			<class>ROGUE</class>
+			<sex>2</sex>
+			<level>80</level>
+			<time>04/01/10 19:26:44</time>
+		</key20>
+
+		<key21>
+			<player>Skrom</player>
+			<race>Tauren</race>
+			<class>WARRIOR</class>
+			<sex>2</sex>
+			<level>80</level>
+
+			<time>04/01/10 19:27:30</time>
+		</key21>
+		<key22>
+			<player>Biglight</player>
+			<race>Tauren</race>
+			<class>SHAMAN</class>
+			<sex>2</sex>
+
+			<level>80</level>
+			<time>04/01/10 19:27:59</time>
+		</key22>
+		<key23>
+			<player>Sibaka</player>
+			<race>Tauren</race>
+			<class>DRUID</class>
+
+			<sex>2</sex>
+			<level>80</level>
+			<time>04/01/10 19:29:23</time>
+		</key23>
+		<key24>
+			<player>Goldhändler</player>
+			<race>Tauren</race>
+
+			<class>HUNTER</class>
+			<sex>2</sex>
+			<level>80</level>
+			<time>04/01/10 19:29:47</time>
+		</key24>
+		<key25>
+			<player>Skrom</player>
+
+			<race>Tauren</race>
+			<class>WARRIOR</class>
+			<sex>2</sex>
+			<level>80</level>
+			<time>04/01/10 19:31:30</time>
+		</key25>
+
+		<key26>
+			<player>Lichblade</player>
+			<race>Tauren</race>
+			<class>DEATHKNIGHT</class>
+			<sex>2</sex>
+			<level>80</level>
+
+			<time>04/01/10 19:31:46</time>
+		</key26>
+		<key27>
+			<player>Skyman</player>
+			<race>Tauren</race>
+			<class>WARRIOR</class>
+			<sex>2</sex>
+
+			<level>80</level>
+			<time>04/01/10 20:19:04</time>
+		</key27>
+		<key28>
+			<player>Moatu</player>
+			<race>Orc</race>
+			<class>SHAMAN</class>
+
+			<sex>3</sex>
+			<level>80</level>
+			<time>04/01/10 21:33:23</time>
+		</key28>
+		<key29>
+			<player>Lumber</player>
+			<race>Scourge</race>
+
+			<class>ROGUE</class>
+			<sex>2</sex>
+			<level>80</level>
+			<time>04/01/10 21:33:39</time>
+		</key29>
+		<key30>
+			<player>Skyman</player>
+
+			<race>Tauren</race>
+			<class>WARRIOR</class>
+			<sex>2</sex>
+			<level>80</level>
+			<time>04/01/10 21:42:18</time>
+		</key30>
+
+		<key31>
+			<player>Humaneater</player>
+			<race>Troll</race>
+			<class>HUNTER</class>
+			<sex>2</sex>
+			<level>80</level>
+
+			<time>04/01/10 22:47:55</time>
+		</key31>
+	</Join>
+	<Leave>
+		<key1>
+			<player>Moatu</player>
+			<time>04/01/10 19:23:02</time>
+
+		</key1>
+		<key2>
+			<player>Lichblade</player>
+			<time>04/01/10 19:27:30</time>
+		</key2>
+		<key3>
+			<player>Skrom</player>
+
+			<time>04/01/10 19:31:22</time>
+		</key3>
+		<key4>
+			<player>Gremrag</player>
+			<time>04/01/10 20:07:04</time>
+		</key4>
+		<key5>
+
+			<player>Skyman</player>
+			<time>04/01/10 21:30:45</time>
+		</key5>
+		<key6>
+			<player>Lumber</player>
+			<time>04/01/10 21:33:07</time>
+		</key6>
+
+		<key7>
+			<player>Moatu</player>
+			<time>04/01/10 21:33:07</time>
+		</key7>
+		<key8>
+			<player>Humaneater</player>
+			<time>04/01/10 22:47:14</time>
+
+		</key8>
+		<key9>
+			<player>Ralosh</player>
+			<time>04/01/10 22:47:58</time>
+		</key9>
+		<key10>
+			<player>Zelo</player>
+
+			<time>04/01/10 22:48:55</time>
+		</key10>
+		<key11>
+			<player>Dragea</player>
+			<time>04/01/10 22:49:00</time>
+		</key11>
+		<key12>
+
+			<player>Mondrose</player>
+			<time>04/01/10 22:49:00</time>
+		</key12>
+		<key13>
+			<player>Anubra</player>
+			<time>04/01/10 22:49:00</time>
+		</key13>
+
+		<key14>
+			<player>Biglight</player>
+			<time>04/01/10 22:49:00</time>
+		</key14>
+		<key15>
+			<player>Sharodal</player>
+			<time>04/01/10 22:49:00</time>
+
+		</key15>
+		<key16>
+			<player>Lysophie</player>
+			<time>04/01/10 22:49:00</time>
+		</key16>
+		<key17>
+			<player>Layes</player>
+
+			<time>04/01/10 22:49:00</time>
+		</key17>
+		<key18>
+			<player>Irimit</player>
+			<time>04/01/10 22:49:00</time>
+		</key18>
+		<key19>
+
+			<player>Skyman</player>
+			<time>04/01/10 22:49:00</time>
+		</key19>
+		<key20>
+			<player>Ruala</player>
+			<time>04/01/10 22:49:00</time>
+		</key20>
+
+		<key21>
+			<player>Humaneater</player>
+			<time>04/01/10 22:49:00</time>
+		</key21>
+		<key22>
+			<player>Lumber</player>
+			<time>04/01/10 22:49:00</time>
+
+		</key22>
+		<key23>
+			<player>Moatu</player>
+			<time>04/01/10 22:49:00</time>
+		</key23>
+		<key24>
+		<player>Schaman</player>
+
+			<time>04/01/10 22:49:00</time>
+		</key24>
+		<key25>
+			<player>Sibaka</player>
+			<time>04/01/10 22:49:00</time>
+		</key25>
+		<key26>
+
+			<player>Tamína</player>
+			<time>04/01/10 22:49:00</time>
+		</key26>
+		<key27>
+			<player>Kórn</player>
+			<time>04/01/10 22:49:00</time>
+		</key27>
+
+		<key28>
+			<player>Dàntê</player>
+			<time>04/01/10 22:49:00</time>
+		</key28>
+		<key29>
+			<player>Lichblade</player>
+			<time>04/01/10 22:49:00</time>
+
+		</key29>
+		<key30>
+			<player>Skrom</player>
+			<time>04/01/10 22:49:00</time>
+		</key30>
+		<key31>
+			<player>Goldhändler</player>
+
+			<time>04/01/10 22:49:00</time>
+		</key31>
+	</Leave>
+	<Loot>
+		<key1>
+			<ItemName>Knochenband des Herolds</ItemName>
+			<ItemID>50447:0:0:0:0:0:0:468265456:80</ItemID>
+
+			<Icon>inv_jewelry_ring_84</Icon>
+			<Class>Rüstung</Class>
+			<SubClass>Verschiedenes</SubClass>
+			<Color>ffa335ee</Color>
+			<Count>1</Count>
+			<Player>Zelo</Player>
+
+			<Costs>24</Costs>
+			<Time>04/01/10 19:42:54</Time>
+			<Zone>Eiskronenzitadelle</Zone>
+			<Boss>Trash mob</Boss>
+			<Note> - Zone: Eiskronenzitadelle - Boss: Trash mob - 24 DKP</Note>
+		</key1>
+
+		<key2>
+			<ItemName>Gamaschen der zweifelhaften Reize</ItemName>
+			<ItemID>50450:0:0:0:0:0:0:1595804416:80</ItemID>
+			<Icon>inv_pants_mail_35</Icon>
+			<Class>Rüstung</Class>
+			<SubClass>Schwere Rüstung</SubClass>
+
+			<Color>ffa335ee</Color>
+			<Count>1</Count>
+			<Player>Biglight</Player>
+			<Costs>10</Costs>
+			<Time>04/01/10 19:43:39</Time>
+			<Zone>Eiskronenzitadelle</Zone>
+
+			<Boss>Trash mob</Boss>
+		<Note> - Zone: Eiskronenzitadelle - Boss: Trash mob - 10 DKP</Note>
+		</key2>
+		<key3>
+			<ItemName>Gefrorene Pelzstiefel</ItemName>
+			<ItemID>49950:0:0:0:0:0:0:883277120:80</ItemID>
+
+			<Icon>inv_boots_leather_07</Icon>
+			<Class>Rüstung</Class>
+			<SubClass>Leder</SubClass>
+			<Color>ffa335ee</Color>
+			<Count>1</Count>
+			<Player>Sibaka</Player>
+
+			<Costs>55</Costs>
+			<Time>04/01/10 20:00:39</Time>
+			<Zone>Eiskronenzitadelle</Zone>
+			<Boss>Lord Marrowgar</Boss>
+			<Note> - Zone: Eiskronenzitadelle - Boss: Lord Marrowgar - 55 DKP</Note>
+		</key3>
+
+		<key4>
+			<ItemName>Amulett der Knochenschildwache</ItemName>
+			<ItemID>49975:0:0:0:0:0:0:1151712576:80</ItemID>
+			<Icon>inv_jewelry_necklace_53</Icon>
+			<Class>Rüstung</Class>
+			<SubClass>Verschiedenes</SubClass>
+
+			<Color>ffa335ee</Color>
+			<Count>1</Count>
+			<Player>Tamína</Player>
+			<Costs>0</Costs>
+			<Time>04/01/10 20:01:26</Time>
+			<Zone>Eiskronenzitadelle</Zone>
+
+			<Boss>Lord Marrowgar</Boss>
+			<Note> - Zone: Eiskronenzitadelle - Boss: Lord Marrowgar - 0 DKP</Note>
+		</key4>
+		<key5>
+			<ItemName>Handschützer der Winterflucht</ItemName>
+			<ItemID>49979:0:0:0:0:0:0:1420148032:80</ItemID>
+
+			<Icon>inv_gauntlets_83</Icon>
+			<Class>Rüstung</Class>
+			<SubClass>Leder</SubClass>
+			<Color>ffa335ee</Color>
+			<Count>1</Count>
+			<Player>disenchanted</Player>
+
+			<Time>04/01/10 20:01:53</Time>
+			<Zone>Eiskronenzitadelle</Zone>
+			<Boss>Lord Marrowgar</Boss>
+			<Note> - Zone: Eiskronenzitadelle - Boss: Lord Marrowgar</Note>
+		</key5>
+		<key6>
+
+			<ItemName>Zods Repetierlangbogen</ItemName>
+			<ItemID>50034:0:0:0:0:0:0:1355698944:80</ItemID>
+			<Icon>inv_weapon_bow_55</Icon>
+			<Class>Waffe</Class>
+			<SubClass>Bogen</SubClass>
+			<Color>ffa335ee</Color>
+
+			<Count>1</Count>
+			<Player>disenchanted</Player>
+			<Time>04/01/10 20:17:03</Time>
+			<Zone>Eiskronenzitadelle</Zone>
+			<Boss>Lady Deathwhisper</Boss>
+			<Note> - Zone: Eiskronenzitadelle - Boss: Lady Deathwhisper</Note>
+
+		</key6>
+		<key7>
+			<ItemName>Onyxnackenschutz der Ahn'kahar</ItemName>
+			<ItemID>49989:0:0:0:0:0:0:1624134400:80</ItemID>
+			<Icon>inv_jewelry_necklace_48</Icon>
+			<Class>Rüstung</Class>
+			<SubClass>Verschiedenes</SubClass>
+
+			<Color>ffa335ee</Color>
+			<Count>1</Count>
+			<Player>Sharodal</Player>
+			<Costs>15</Costs>
+			<Time>04/01/10 20:17:23</Time>
+			<Zone>Eiskronenzitadelle</Zone>
+
+			<Boss>Lady Deathwhisper</Boss>
+			<Note> - Zone: Eiskronenzitadelle - Boss: Lady Deathwhisper - 15 DKP</Note>
+		</key7>
+		<key8>
+			<ItemName>Nibelung</ItemName>
+			<ItemID>49992:0:0:0:0:0:0:1892569856:80</ItemID>
+
+			<Icon>inv_staff_109</Icon>
+			<Class>Waffe</Class>
+			<SubClass>Stäbe</SubClass>
+			<Color>ffa335ee</Color>
+			<Count>1</Count>
+			<Player>Kórn</Player>
+
+			<Costs>0</Costs>
+			<Time>04/01/10 20:17:52</Time>
+			<Zone>Eiskronenzitadelle</Zone>
+			<Boss>Lady Deathwhisper</Boss>
+			<Note> - Zone: Eiskronenzitadelle - Boss: Lady Deathwhisper - 0 DKP</Note>
+		</key8>
+
+		<key9>
+			<ItemName>Schlächterumhang des Schattengewölbes</ItemName>
+			<ItemID>49998:0:0:0:0:0:0:563754592:80</ItemID>
+			<Icon>item_icecrowncloak</Icon>
+			<Class>Rüstung</Class>
+			<SubClass>Stoff</SubClass>
+
+			<Color>ffa335ee</Color>
+			<Count>1</Count>
+			<Player>disenchanted</Player>
+			<Time>04/01/10 20:30:02</Time>
+			<Zone>Eiskronenzitadelle</Zone>
+			<Boss>Trash mob</Boss>
+
+			<Note> - Zone: Eiskronenzitadelle - Boss: Trash mob</Note>
+		</key9>
+		<key10>
+			<ItemName>Fährmünze der Toten</ItemName>
+			<ItemID>50352:0:0:0:0:0:0:832190048:80</ItemID>
+			<Icon>inv_misc_coin_18</Icon>
+
+			<Class>Rüstung</Class>
+			<SubClass>Verschiedenes</SubClass>
+			<Color>ffa335ee</Color>
+			<Count>1</Count>
+			<Player>Skyman</Player>
+			<Costs>30</Costs>
+
+			<Time>04/01/10 20:31:08</Time>
+			<Zone>Eiskronenzitadelle</Zone>
+			<Boss>Trash mob</Boss>
+			<Note> - Zone: Eiskronenzitadelle - Boss: Trash mob - 30 DKP</Note>
+		</key10>
+		<key11>
+
+			<ItemName>Fäustlinge des Kanonenbootkapitäns</ItemName>
+			<ItemID>50011:0:0:0:0:0:0:1100625504:80</ItemID>
+			<Icon>inv_gauntlets_90</Icon>
+			<Class>Rüstung</Class>
+			<SubClass>Stoff</SubClass>
+			<Color>ffa335ee</Color>
+
+			<Count>1</Count>
+			<Player>Tamína</Player>
+			<Costs>0</Costs>
+			<Time>04/01/10 20:32:01</Time>
+			<Zone>Eiskronenzitadelle</Zone>
+			<Boss>Trash mob</Boss>
+
+			<Note> - Zone: Eiskronenzitadelle - Boss: Trash mob - 0 DKP</Note>
+		</key11>
+		<key12>
+			<ItemName>Blutgiftklinge</ItemName>
+			<ItemID>50412:0:0:0:0:0:0:2049961728:80</ItemID>
+			<Icon>inv_sword_154</Icon>
+
+			<Class>Waffe</Class>
+			<SubClass>Einhandschwerter</SubClass>
+			<Color>ffa335ee</Color>
+			<Count>1</Count>
+			<Player>Goldhändler</Player>
+			<Costs>20</Costs>
+
+			<Time>04/01/10 20:38:17</Time>
+			<Zone>Eiskronenzitadelle</Zone>
+			<Boss>Deathbringer Saurfang</Boss>
+			<Note> - Zone: Eiskronenzitadelle - Boss: Deathbringer Saurfang - 20 DKP</Note>
+		</key12>
+		<key13>
+
+			<ItemName>Weiheabzeichen des Beschützers</ItemName>
+			<ItemID>52026:0:0:0:0:0:0:-1708134656:80</ItemID>
+			<Icon>ability_paladin_shieldofthetemplar</Icon>
+			<Class>Verschiedenes</Class>
+			<SubClass>Plunder</SubClass>
+			<Color>ffa335ee</Color>
+
+			<Count>1</Count>
+			<Player>Schaman</Player>
+			<Costs>180</Costs>
+			<Time>04/01/10 20:39:35</Time>
+			<Zone>Eiskronenzitadelle</Zone>
+			<Boss>Deathbringer Saurfang</Boss>
+
+			<Note> - Zone: Eiskronenzitadelle - Boss: Deathbringer Saurfang - 180 DKP</Note>
+		</key13>
+		<key14>
+			<ItemName>Weiheabzeichen des Eroberers</ItemName>
+			<ItemID>52027:0:0:0:0:0:0:-1976570112:80</ItemID>
+			<Icon>ability_paladin_shieldofthetemplar</Icon>
+
+			<Class>Verschiedenes</Class>
+			<SubClass>Plunder</SubClass>
+			<Color>ffa335ee</Color>
+			<Count>1</Count>
+			<Player>Dragea</Player>
+			<Costs>500</Costs>
+
+			<Time>04/01/10 20:40:26</Time>
+			<Zone>Eiskronenzitadelle</Zone>
+			<Boss>Deathbringer Saurfang</Boss>
+			<Note> - Zone: Eiskronenzitadelle - Boss: Deathbringer Saurfang - 500 DKP</Note>
+		</key14>
+		<key15>
+
+			<ItemName>Schulterplatten des tobenden Ungetüms</ItemName>
+			<ItemID>50020:0:0:0:0:0:0:875388480:80</ItemID>
+			<Icon>inv_shoulder_129</Icon>
+			<Class>Rüstung</Class>
+			<SubClass>Platte</SubClass>
+			<Color>ffa335ee</Color>
+
+			<Count>1</Count>
+			<Player>Goldhändler</Player>
+			<Costs>20</Costs>
+			<Time>04/01/10 21:00:09</Time>
+			<Zone>Eiskronenzitadelle</Zone>
+			<Boss>Rotface</Boss>
+
+			<Note> - Zone: Eiskronenzitadelle - Boss: Rotface - 20 DKP</Note>
+		</key15>
+		<key16>
+			<ItemName>Blutspritzers Armschienen</ItemName>
+			<ItemID>50030:0:0:0:0:0:0:1412259392:80</ItemID>
+			<Icon>inv_bracer_60</Icon>
+
+			<Class>Rüstung</Class>
+			<SubClass>Schwere Rüstung</SubClass>
+			<Color>ffa335ee</Color>
+			<Count>1</Count>
+			<Player>Moatu</Player>
+			<Costs>10</Costs>
+
+			<Time>04/01/10 21:00:56</Time>
+			<Zone>Eiskronenzitadelle</Zone>
+			<Boss>Trash mob</Boss>
+			<Note> - Zone: Eiskronenzitadelle - Boss: Trash mob - 10 DKP</Note>
+		</key16>
+		<key17>
+
+			<ItemName>Helm des ältesten Mondes</ItemName>
+			<ItemID>50026:0:0:0:0:0:0:1143823936:80</ItemID>
+			<Icon>inv_helmet_148</Icon>
+			<Class>Rüstung</Class>
+			<SubClass>Leder</SubClass>
+			<Color>ffa335ee</Color>
+
+			<Count>1</Count>
+			<Player>disenchanted</Player>
+			<Time>04/01/10 21:01:03</Time>
+			<Zone>Eiskronenzitadelle</Zone>
+			<Boss>Trash mob</Boss>
+			<Note> - Zone: Eiskronenzitadelle - Boss: Trash mob</Note>
+
+		</key17>
+		<key18>
+			<ItemName>Fleischzerreißende Stulpen</ItemName>
+			<ItemID>50037:0:0:0:0:0:0:1546500864:80</ItemID>
+			<Icon>inv_gauntlets_86</Icon>
+			<Class>Rüstung</Class>
+			<SubClass>Platte</SubClass>
+
+			<Color>ffa335ee</Color>
+			<Count>1</Count>
+			<Player>Lysophie</Player>
+			<Costs>10</Costs>
+			<Time>04/01/10 21:09:46</Time>
+			<Zone>Eiskronenzitadelle</Zone>
+
+			<Boss>Festergut</Boss>
+			<Note> - Zone: Eiskronenzitadelle - Boss: Festergut - 10 DKP</Note>
+		</key18>
+		<key19>
+			<ItemName>Befleckte Hose des Seuchenfürsten</ItemName>
+			<ItemID>50056:0:0:0:0:0:0:1814936320:80</ItemID>
+
+			<Icon>inv_pants_cloth_34</Icon>
+			<Class>Rüstung</Class>
+			<SubClass>Stoff</SubClass>
+			<Color>ffa335ee</Color>
+			<Count>1</Count>
+			<Player>Kórn</Player>
+
+			<Costs>0</Costs>
+			<Time>04/01/10 21:10:06</Time>
+			<Zone>Eiskronenzitadelle</Zone>
+			<Boss>Festergut</Boss>
+			<Note> - Zone: Eiskronenzitadelle - Boss: Festergut - 0 DKP</Note>
+		</key19>
+
+		<key20>
+			<ItemName>Gesichtsschutz des Vergessenen</ItemName>
+			<ItemID>50060:0:0:0:0:0:0:2083371776:80</ItemID>
+			<Icon>inv_helmet_154</Icon>
+			<Class>Rüstung</Class>
+			<SubClass>Platte</SubClass>
+
+			<Color>ffa335ee</Color>
+			<Count>1</Count>
+			<Player>Lysophie</Player>
+			<Costs>10</Costs>
+			<Time>04/01/10 21:10:41</Time>
+			<Zone>Eiskronenzitadelle</Zone>
+
+			<Boss>Festergut</Boss>
+			<Note> - Zone: Eiskronenzitadelle - Boss: Festergut - 10 DKP</Note>
+		</key20>
+		<key21>
+			<ItemName>Astrylians Vernähter Gurt</ItemName>
+			<ItemID>50067:0:0:0:0:0:0:1216556160:80</ItemID>
+
+			<Icon>inv_belt_61</Icon>
+			<Class>Rüstung</Class>
+			<SubClass>Leder</SubClass>
+			<Color>ffa335ee</Color>
+			<Count>1</Count>
+			<Player>Sharodal</Player>
+
+			<Costs>84</Costs>
+			<Time>04/01/10 21:25:19</Time>
+			<Zone>Eiskronenzitadelle</Zone>
+			<Boss>Professor Putricide</Boss>
+			<Note> - Zone: Eiskronenzitadelle - Boss: Professor Putricide - 84 DKP</Note>
+		</key21>
+
+		<key22>
+			<ItemName>Weiheabzeichen des Bezwingers</ItemName>
+			<ItemID>52025:0:0:0:0:0:0:1484991616:80</ItemID>
+			<Icon>ability_paladin_shieldofthetemplar</Icon>
+			<Class>Verschiedenes</Class>
+			<SubClass>Plunder</SubClass>
+
+			<Color>ffa335ee</Color>
+			<Count>1</Count>
+			<Player>Lichblade</Player>
+			<Costs>193</Costs>
+			<Time>04/01/10 21:27:28</Time>
+			<Zone>Eiskronenzitadelle</Zone>
+
+			<Boss>Professor Putricide</Boss>
+			<Note> - Zone: Eiskronenzitadelle - Boss: Professor Putricide - 193 DKP</Note>
+		</key22>
+		<key23>
+			<ItemName>Weiheabzeichen des Bezwingers</ItemName>
+			<ItemID>52025:0:0:0:0:0:0:1753427072:80</ItemID>
+
+			<Icon>ability_paladin_shieldofthetemplar</Icon>
+			<Class>Verschiedenes</Class>
+			<SubClass>Plunder</SubClass>
+			<Color>ffa335ee</Color>
+			<Count>1</Count>
+			<Player>Lumber</Player>
+
+			<Costs>170</Costs>
+			<Time>04/01/10 21:27:42</Time>
+			<Zone>Eiskronenzitadelle</Zone>
+			<Boss>Professor Putricide</Boss>
+			<Note> - Zone: Eiskronenzitadelle - Boss: Professor Putricide - 170 DKP</Note>
+		</key23>
+
+		<key24>
+			<ItemName>Gruftmacher</ItemName>
+			<ItemID>49919:0:0:0:0:0:0:781460832:80</ItemID>
+			<Icon>inv_mace_116</Icon>
+			<Class>Waffe</Class>
+			<SubClass>Zweihandstreitkolben</SubClass>
+
+			<Color>ffa335ee</Color>
+			<Count>1</Count>
+			<Player>Skyman</Player>
+			<Costs>0</Costs>
+			<Time>04/01/10 22:14:36</Time>
+			<Zone>Eiskronenzitadelle</Zone>
+
+			<Boss>Prince Taldaram</Boss>
+			<Note> - Zone: Eiskronenzitadelle - Boss: Prince Taldaram - 0 DKP</Note>
+		</key24>
+		<key25>
+			<ItemName>Schultern der frostbestückten Dornen</ItemName>
+			<ItemID>50171:0:0:0:0:0:0:1049896288:80</ItemID>
+
+			<Icon>inv_shoulder_111</Icon>
+			<Class>Rüstung</Class>
+			<SubClass>Leder</SubClass>
+			<Color>ffa335ee</Color>
+			<Count>1</Count>
+			<Player>disenchanted</Player>
+
+			<Costs>0</Costs>
+			<Time>04/01/10 22:15:28</Time>
+			<Zone>Eiskronenzitadelle</Zone>
+			<Boss>Prince Taldaram</Boss>
+			<Note> - Zone: Eiskronenzitadelle - Boss: Prince Taldaram - 0 DKP</Note>
+		</key25>
+
+		<key26>
+			<ItemName>Armschienen des Gruftwächters</ItemName>
+			<ItemID>50175:0:0:0:0:0:0:1318331744:80</ItemID>
+			<Icon>inv_bracer_46</Icon>
+			<Class>Rüstung</Class>
+			<SubClass>Platte</SubClass>
+
+			<Color>ffa335ee</Color>
+			<Count>1</Count>
+			<Player>Ruala</Player>
+			<Costs>10</Costs>
+			<Time>04/01/10 22:15:57</Time>
+			<Zone>Eiskronenzitadelle</Zone>
+
+			<Boss>Prince Taldaram</Boss>
+			<Note> - Zone: Eiskronenzitadelle - Boss: Prince Taldaram - 10 DKP</Note>
+		</key26>
+	</Loot>
+</RaidInfo>

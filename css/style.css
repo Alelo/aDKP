@@ -1,0 +1,180 @@
+html {
+	overflow-y:scroll;
+}
+body {
+	background:url(../img/spirithealer.jpg) #000000 top center no-repeat;
+	color:#FFFFFF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	margin: 0 auto;	
+	text-align: center;
+}
+a{
+	outline: none;
+	text-decoration:none;
+}
+#wrapper {
+	margin: 0 auto;
+	width: 1000px;
+}
+#classlisting #headings a, #classlisting #headings a:hover, #classlisting #headings a:active, #classlisting #headings a:visited {
+	color: white;
+	border-bottom: 1px dotted white;
+}
+.divboxInner {
+	background-color:rgba(0,0,0,0.6);
+	/*filter: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr='#7A222222', EndColorStr='#7A222222');*/
+	*background-color: #222222;
+	border:1px solid #AAA;
+	padding: 10px;
+}
+
+.divboxOuter {
+	background-color:rgba(255,255,255,0.3);
+	filter: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr='#4AFFFFFF', EndColorStr='#4AFFFFFF');
+	border:1px solid #AAA;
+	margin: 20px auto;
+	padding:10px;
+	text-align: left;
+	width: 100%;
+}
+#chars .divboxOuter {
+	margin-top:32px;
+	max-width: 700px;
+	min-width:650px;
+}
+#list .divboxOuter {
+	margin-top:220px;
+	max-width: 940px;
+}
+#items .divboxOuter {
+	margin-top:32px;
+	max-width: 400px;
+}
+.divboxNaviOuter {
+	background-color:rgba(255,255,255,0.3);
+	border:1px solid #AAA;
+	margin-top: 141px;
+	max-width: 400px;
+	min-width:350px;
+	padding:10px;
+}
+.divboxSmalOuter {
+	text-align:center;
+	width: 100%;
+	*width: 1008px;
+	border:1px solid #AAA;
+	background-color:rgba(255,255,255,0.3);
+	filter: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr='#4AFFFFFF', EndColorStr='#4AFFFFFF');
+	padding:10px;
+	margin:20px auto;
+	/*background:transparent;
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000050,endColorstr=#99000050);
+	zoom: 1;*/
+}
+table {
+	color:#FFF;
+	margin: 0px;
+	padding: 0px;
+}
+	table.dkp {
+		background:rgba(0,0,0,0.5);
+		border:1px solid #999;
+	}
+	table#dkplisting {
+		width: 100%;
+	}
+	table #dkplisting .player {
+		font-size: 10px !important;
+	}
+.banner {
+	height:200px;
+}
+.bold {
+	font-weight: bold;
+}
+.clear {
+	clear:both;
+}
+.center {
+	margin: 0 auto;
+}
+.dkplisting {
+	float: left;
+	padding-right: 10px;
+	text-align: right;
+	width: 40px;
+}
+
+div.graph {
+	border:1px solid #EEEEEE;
+	margin:2px 0;
+	padding:2px;
+	position:relative;
+	width:98%;
+}
+	div.graph .bar {
+		background:#EEEEEE none repeat scroll 0 0;
+		color:black;
+		display:block;
+		height:1.3em;
+		line-height:1.3em;
+		position:relative;
+		text-align:center;
+	}
+#charlist {
+	margin: 0 auto;
+	width: 100%;
+}
+#dkplist {
+	width: 100%;
+	vertical-align: top;
+	top: 0;
+}
+	#dkplist td {
+		height: 100%;
+	}
+span {
+	font-size: 12px !important;
+}
+.player span, .dkpvalue span {
+	font-size: 11px !important;
+}
+#content {
+	margin: 10px auto 0px auto;
+	padding: 0 0 15px 0;
+	text-align: center;
+}
+#menu {
+	margin-top: 160px;
+	text-align: left !important;
+}
+	#menu ul {
+		display: block;
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+	}
+	#menu ul li {
+		display: inline;
+		margin: 0 10px 0 0 ;
+		padding: 0;
+	}
+	
+.dkpdescription, .dkpdescriptionvalues {
+	display: inline-block;
+	font-weight: bold;
+	position: relative;
+	text-align: right;
+	width: 90px;
+}
+.dkpdescriptionvalues {
+	font-size: 11px !important;
+	width: 40px;
+}
+.positive {
+	color: green;
+}
+.negative {
+	color: red;
+}
